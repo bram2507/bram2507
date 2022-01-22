@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bram2507
 - 👀 I’m interested in web development , Angular , React , Vue , Node , Deno , Javascript , Typescript , HTML , CSS , C , C++ , C# , Python , Django ...
-- 🌱 I’m currently learning React ad Vue  
+- 🌱 I’m currently learning React and Vue  
 - 💞️ I’m looking to collaborate on fun projects 
 - 📫 How to reach me abrahamalvarezgomez2507@gmail.com
 
